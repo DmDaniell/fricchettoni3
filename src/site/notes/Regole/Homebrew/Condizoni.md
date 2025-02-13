@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/regole/homebrew/condizoni/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/regole/homebrew/condizoni/"}
 ---
-
 
 
 - ==Frastornato==
 	Una creatura frastornata può fare solo una delle seguenti cose nel suo turno: **muoversi, usare un'azione o usare un'azione bonus**. Se una creatura diventa stordita durante il suo turno, il suo turno termina.
+	
 - ==Prono==
 	Quando si è in condizione di Prono, si subiscono i seguenti effetti.
 	**Movimento limitato**. Le uniche possibilità di movimento sono strisciare o spendere una quantità di movimento pari alla metà della propria Velocità (arrotondata per difetto) per raddrizzarsi e porre così fine alla condizione. Se la velocità è 0, non è possibile raddrizzarsi.
@@ -15,7 +15,7 @@
 	Verifiche di abilità e attacchi influenzati. Si ha **svantaggio** sui tiri di attacco e sulle prove di abilità.
 - ==Invisibile==
 	Quando si ha la condizione di **Invisibile**, si sperimentano i seguenti effetti.
-	**Sorpresa**. Se si è invisibili quando si tira Iniziativa, si ha un **vantaggio** sul tiro.
+	Sorpresa. Se si è invisibili quando si tira Iniziativa, si ha un **vantaggio** sul tiro.
 	**Occultamento**. Non si subisce alcun effetto che richiede che il bersaglio sia visto, a meno che il creatore dell'effetto non possa in qualche modo vederci. Anche l'equipaggiamento che si indossa o si trasporta è nascosto.
 	**Attacchi influenzati**. I tiri di attacco contro di voi hanno **svantaggio**, mentre i vostri tiri di attacco hanno **vantaggio**. Se una creatura può in qualche modo vedervi, non ottenete questo beneficio contro quella creatura.
 - ==Afferrato==
