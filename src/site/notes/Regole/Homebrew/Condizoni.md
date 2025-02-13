@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/regole/homebrew/condizoni/"}
+{"dg-publish":true,"permalink":"/regole/homebrew/condizoni/","tags":["gardenEntry"]}
 ---
 
 
