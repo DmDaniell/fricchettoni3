@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eberron-worldbuilding/religioni/le-lame/","noteIcon":"3"}
+{"dg-publish":true,"permalink":"/eberron-worldbuilding/religioni/le-lame/","tags":["Warforged"],"noteIcon":"3"}
 ---
 
 

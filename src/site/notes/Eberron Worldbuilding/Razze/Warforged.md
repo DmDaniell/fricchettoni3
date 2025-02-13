@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/eberron-worldbuilding/razze/warforged/","noteIcon":"3"}
+{"dg-publish":true,"permalink":"/eberron-worldbuilding/razze/warforged/","tags":["Warforged"],"noteIcon":"3"}
 ---
 
 
