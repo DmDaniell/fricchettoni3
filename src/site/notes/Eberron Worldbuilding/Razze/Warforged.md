@@ -1,0 +1,7 @@
+---
+{"dg-publish":true,"permalink":"/eberron-worldbuilding/razze/warforged/","noteIcon":"3"}
+---
+
+
+I Warforged sono una razza artificiale di costrutti viventi originari di Cyre e creati da Casa Cannith nel 965 YK per combattere nell'Ultima Guerra. I Warforged sono costrutti senzienti e dotati di libero arbitrio, il che ha garantito loro gli stessi diritti dei cittadini umani in ciascuna delle loro terre d'origine nel 996 YK, in base al Trattato di Thronehold.[![5e](https://static.wikia.nocookie.net/eberron/images/8/87/Warforgedsoldier.png/revision/latest/scale-to-width-down/350?cb=20200428093806)
+
