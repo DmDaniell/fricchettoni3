@@ -8,3 +8,18 @@
         { "src": "/(.*)", "status": 404, "dest": "/404" }
       ]
 }
+pnpm i @vercel/analytics
+
+import va from '@vercel/analytics';
+
+function SignupButton() {
+  return (
+    <button onClick={() => {
+      va.track('Signup', {
+        location: 'US'
+      });
+    }}>
+      Sign Up
+    </button>
+  );
+}
